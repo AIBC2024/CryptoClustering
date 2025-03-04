@@ -1,9 +1,9 @@
 # CryptoClustering
-Unsupervised Machine Learning - K-means and PCA (Principal Component Analysis) Homework AI Bootcamp due 2/25/2024
+Unsupervised Machine Learning - K-means and PCA (Principal Component Analysis) Homework AI Bootcamp due 2/25/2025
 
 ## Project Overview
 1. From crypto_market_data.csv file create data frames, follow instructions from Jupyter Notebook
-2. Apply my understandnig of the K-means algorithm and PCA to classify cryptocurrencies acording to their price fluctuations across various timeframes. Examine price changes iver intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
+2. Apply my understanding of the K-means algorithm and PCA to classify cryptocurrencies acording to their price fluctuations across various timeframes. Examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
 
 ## How I did my work
 1. Follow the instructions on the Jupyter Notebook starter file
